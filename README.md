@@ -1,3 +1,3 @@
-# Boxing + Exciting
+# git prac
 
-복싱 사이트
+깃 연습 테스트
